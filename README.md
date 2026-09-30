@@ -1,23 +1,18 @@
-## Hey there 👋 I'm ZeroMerge
+# ZeroMerge (@zeromergedev)
+**Cloud Engineering & System Architecture**
 
-✨ Deploying good vibes & smart contracts  
-🧱 Building in public — one block at a time  
-🧬 Aspiring Blockchain Developer on a mission to decentralize the future  
-📍 Based in Nigeria
+Complex infrastructure fails when a team cannot visualize how the pieces connect. Because my background is in brand design, I approach DevOps with a strict requirement for visual clarity. Before a container is deployed or a pipeline is triggered, the architecture needs to be mapped and understood.
 
-I'm currently learning and experimenting with smart contract development, Web3 tools, and blockchain protocols. Follow along as I build, break, and ship cool stuff in public.
+I am currently finishing my IT degree program in Minna while actively building and deploying cloud projects.
 
-### 🛠 Tech & Tools I'm Exploring
-- Solidity • Sui • Rust • JavaScript
-- Hardhat • Foundry • Git & GitHub
+### Technical Focus
+* **Cloud & Containers:** AWS, Docker, Linux system administration
+* **Automation:** CI/CD pipelines, GitHub Actions, Bash scripting
+* **Architecture:** Translating complex backend logic into readable system maps
 
-### 🚧 Ongoing
-- Learning Web3 fundamentals  
-- Writing and testing smart contracts  
-- Contributing to open source (soon™)
+### The Workspace Infrastructure
+Working remotely requires hardware resilience just as much as software reliability. Alongside cloud deployments, I am currently configuring an off-grid, solar-powered workspace to guarantee local server and network uptime regardless of regional grid failures.
 
-> “No merge conflicts, only clean commits.”
-
-Let’s connect:  
-[Twitter/X](https://x.com/ZeroMerge)
-
+### Connect
+* **YouTube:** [@zeromergedev](https://youtube.com/@zeromergedev)
+* **X/Twitter:** [@zeromergedev](https://twitter.com/ZeroMerge)
