@@ -1,18 +1,35 @@
-# ZeroMerge (@zeromergedev)
-**Cloud Engineering & System Architecture**
+# Abundant Joel
 
-Complex infrastructure fails when a team cannot visualize how the pieces connect. Because my background is in brand design, I approach DevOps with a strict requirement for visual clarity. Before a container is deployed or a pipeline is triggered, the architecture needs to be mapped and understood.
+Cloud and DevOps engineer, I love creating systems and processes even in a chaotic state, Most of my focus is on setting up the pipelines that test code and ship it to automatically TO AWS / AZURE / GCP, and I draw how everything connects so the next person can follow it without asking me.
 
-I am currently finishing my IT degree program in Minna while actively building and deploying cloud projects.
+I'm finishing my IT degree in Minna, Nigeria, and I'm looking for a junior DevOps or cloud role (remote is fine). 
 
-### Technical Focus
-* **Cloud & Containers:** AWS, Docker, Linux system administration
-* **Automation:** CI/CD pipelines, GitHub Actions, Bash scripting
-* **Architecture:** Translating complex backend logic into readable system maps
+[LinkedIn](https://www.linkedin.com/in/abundant-joel-5a8a79277) · [Email](mailto:zeromerge.dev@gmail.com) · [YouTube](https://youtube.com/@zeromergedev) · [X](https://twitter.com/ZeroMerge)
 
-### The Workspace Infrastructure
-Working remotely requires hardware resilience just as much as software reliability. Alongside cloud deployments, I am currently configuring an off-grid, solar-powered workspace to guarantee local server and network uptime regardless of regional grid failures.
+## What I do ⚙️
 
-### Connect
-* **YouTube:** [@zeromergedev](https://youtube.com/@zeromergedev)
-* **X/Twitter:** [@zeromergedev](https://twitter.com/ZeroMerge)
+- Draw and Write pipelines that run tests, build a Container image and deploy it on every push.
+- Run apps in Docker containers on AWS/Azure.
+- Turn repeat manual jobs into Bash scripts.
+- Administer Linux servers.
+
+## How a change reaches production in my projects
+
+```mermaid
+flowchart LR
+    A[git push] --> B[GitHub Actions: run tests]
+    B --> C[Build Docker image]
+    C --> D[Push to registry]
+    D --> E[Deploy to AWS]
+    E --> F[Health check]
+```
+
+
+## Background 🔭
+
+Before DevOps I worked in brand design and i have been a brand strategist and lead for some startups and organizations. It taught me to explain something complicated with one clear picture and focus on execution with sixth sense of what could go wrong and mitigate it, and that's most of what good infrastructure documentation is.
+
+## Right now
+
+- Building the AWS deployment for my TechCrush capstone project.
+- Working through Pluralsight's IT and DevOps track.
