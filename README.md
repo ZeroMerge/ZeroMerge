@@ -6,7 +6,7 @@ I'm finishing my IT degree in Minna, Nigeria, and I'm looking for a junior DevOp
 
 [LinkedIn](https://www.linkedin.com/in/abundant-joel-5a8a79277) · [Email](mailto:zeromerge.dev@gmail.com) · [YouTube](https://youtube.com/@zeromergedev) · [X](https://twitter.com/ZeroMerge)
 
-## What I do ⚙️
+## ⚙️ What I do
 
 - Draw and Write pipelines that run tests, build a Container image and deploy it on every push.
 - Run apps in Docker containers on AWS/Azure.
@@ -24,8 +24,7 @@ flowchart LR
     E --> F[Health check]
 ```
 
-
-## Background 🔭
+## 🔭 Background
 
 Before DevOps I worked in brand design and i have been a brand strategist and lead for some startups and organizations. It taught me to explain something complicated with one clear picture and focus on execution with sixth sense of what could go wrong and mitigate it, and that's most of what good infrastructure documentation is.
 
