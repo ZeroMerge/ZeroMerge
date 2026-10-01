@@ -1,6 +1,6 @@
 # Abundant Joel
 
-Cloud and DevOps engineer, I love creating systems and processes even in a chaotic state.
+The first thing you should know about me is that I actually love a good mess. Give me a chaotic, undefined environment, and I will build you a seamless system that runs like clockwork.
 
 Most of my focus is on setting up the pipelines that test code and ship it to automatically and drawing how everything connects so the next person can follow it without asking me.
 
